@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-shaded-hadoop1:0.9-hadoop1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-shaded-hadoop1/0.9-hadoop1-SNAPSHOT/flink-shaded-hadoop1-0.9-hadoop1-20161205.213852-390.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-shaded-hadoop1/0.9-hadoop1-SNAPSHOT/flink-shaded-hadoop1-0.9-hadoop1-20161205.213852-390-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-shaded-hadoop1/0.9-hadoop1-SNAPSHOT/flink-shaded-hadoop1-0.9-hadoop1-20161205.213852-390-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
